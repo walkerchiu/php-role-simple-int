@@ -32,7 +32,7 @@ return [
         'morph-image'    => 0,
         'rule'           => 0,
         'rule-hit'       => 0,
-        'site'           => 0
+        'site-mall'      => 0,
     ],
 
     /*
